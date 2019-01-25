@@ -11,7 +11,7 @@ import Default from './Component/default'
 
 class App extends Component {
   render() {
-    return (
+    return ( 
       <React.Fragment>
         <Navbar/>
         <Switch>
